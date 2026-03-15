@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Generated images (don't commit model outputs)
+static/images/*.png
+static/images/*.jpg
+static/images/*.jpeg
+static/images/*.webp
+!static/images/.gitkeep
+
+# NLTK data
+nltk_data/
+
+# HuggingFace model cache
+.cache/
+
+# Environment variables
+.env
+.env.local
+
+# Flask session
+flask_session/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
