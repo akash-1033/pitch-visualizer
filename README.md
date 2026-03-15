@@ -44,7 +44,7 @@ templates/storyboard.html  — rendered multi-panel storyboard page
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/akash-1033/pitch-visualizer
 cd pitch-visualizer
 ```
 
